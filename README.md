@@ -1,8 +1,7 @@
 # be09-fin-ThreePing-SyncDay
 
 ### WBS
-![image](https://github.com/user-attachments/assets/bcab735e-1a2b-4f96-a485-b8b088ef4922)![image](https://github.com/user-attachments/assets/282c9124-fd67-434d-9a9e-142428ae5b12)
-
+![image](https://github.com/user-attachments/assets/bb21d3d1-aa6e-44bd-a12c-2578bbdaf1e2)
 
 
 ### 요구사항 명세서
