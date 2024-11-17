@@ -1,6 +1,7 @@
 # be09-fin-ThreePing-SyncDay
-
+## 기획문서
 ### WBS
+🔗 WBS 바로가기
 ![image](https://github.com/user-attachments/assets/bb21d3d1-aa6e-44bd-a12c-2578bbdaf1e2)
 
 
